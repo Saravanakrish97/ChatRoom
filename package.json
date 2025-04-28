@@ -10,13 +10,13 @@
   ],
   "author": "Saurabh Nandu saurabh@systenics.com",
   "contributors": [{
-  "name": "Balkrishna Sawant",
-  "email": "balkrishnasawant0617@gmail.com"  
+  "name": "saravana krish",
+  "email": "tamilmoviebot@gmail.com"  
 },{
   "name": "Pravin Kumar Mishra",
   "email": "mishrapravin827@gmail.com"  
 }], 
-  "homepage": "http://chat.systenics.com/",
+  "homepage": "https://testsitenew.onrender.com/",
   "repository": {
   "type": "git",
   "url": "https://github.com/systenics/ChatRoom.git"
