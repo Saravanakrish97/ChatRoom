@@ -22,9 +22,8 @@ var files_array  = [];
 var expiryTime = 8;
 var routineTime = 1;
 
-server.listen(8282);		// server starting on port '8282'
+server.listen(process.env.PORT || 8282);    // server starting on port '8282' or Render provided PORT // cofiguring body-parser
 
-// cofiguring body-parser
 app.use(bodyParser.json({	// setting json limit 	
     limit: 1024 * 10000
 }));
