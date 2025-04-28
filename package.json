@@ -22,6 +22,9 @@
   "url": "https://github.com/systenics/ChatRoom.git"
 },
   "private": "false",
+"scripts": {
+  "start": "node app.js"
+},
   "bundleDependencies": [
     "passport.socketio"
   ],
